@@ -1,0 +1,72 @@
+==================================================================
+https://keybase.io/gpeltier
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gpeltier.dev
+  * I am gpeltier (https://keybase.io/gpeltier) on keybase.
+  * I have a public key with fingerprint 3B13 EEBF 93FD CD44 96B3  A0BF A006 A9C9 3C88 3480
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012c99ca6a44797aaef683d97d73a67ef0c8e475dea0a800e1726a7c5dfda055460a",
+      "fingerprint": "3b13eebf93fdcd4496b3a0bfa006a9c93c883480",
+      "host": "keybase.io",
+      "key_id": "a006a9c93c883480",
+      "kid": "01012c99ca6a44797aaef683d97d73a67ef0c8e475dea0a800e1726a7c5dfda055460a",
+      "uid": "eb6ef2f93d26a04c8d462d2a5bd4b219",
+      "username": "gpeltier"
+    },
+    "service": {
+      "hostname": "gpeltier.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1595719727,
+  "expire_in": 157680000,
+  "prev": "368ee1a8e4bc04ed94906d38052ae08ac483a5d373c241d07ed2d7132ab47d45",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owGtkmtMHFUYhhdEu2IaEAyXUiuMYKMSOjv3WS5CvYRAC4ZIwUJZzsw5u4zA7nZm
+gVKyyKWRElOlJd4qtLtcKi3ZUjXUxpgitg1ZLa3V0qKpJWAVKVZFxEVgWWeJ/WP8
+6a+T853nfb/3+3La1t+j0QY47jvuTtlPNQR8MSNoDBs/ZeswwQJrMX0dVo7WDlQB
+kWIzlEsQ02O4DtcRIs+LgAEUxfIsAMjIcCTkWciSgGGRERc5RLE0RAAHHI4jHUsw
+gBVpaIQAp2mKwQGWiBklswnJVlky21RbUtCRCAlGnjRCEVIUzwgkwAUjwHEG8CJP
+ihxHUhyuCsssil+hhhOAgpIki1pTL4a1eP/B/8+5q9bskMAgI6HGhSqDUyIHKYaA
+BKAFSAmEjveDCpLNoBKptMmKKmwSkjF7IqZWqyUR+Rfrn+RfRBJE1arWKltsFtFS
+ob6U2WxWRe9X2mqtfrQGCYZ/TAyCZIbqHlVFNZIVyWLG9DqVFG2S31VH8zSr41mC
+TcTQHqskI4PkJ2iWUefDcX8ftZ26fYZDSAcK1fkFEacQ5CkeZyDJ4TQBEM4BkeJI
+QEOSJUWC0kGcRZCArI4kgECxkKIx/1y7zRZMT6o5gUn1VCSTGdiqZITZg1sDySBN
+gFbzcERcUHL4L0Pt3tFn3vzQMXT3790b6P94muD7Q+9WVnpCNce2C+ObbhINf3j6
+mr0BrWPOvxz5u34L6JeivV+aDrzduZoKPHHHQyISiLmw/EFloeVibFnz0fOPvJ/e
+asjcJ3sKyBur4e88URo1n+TJa+s/yQSTv5/9QFMvo0tNtY9ezhkZjtTeHDeXPJDn
+vLRQlbL0VPR7iun2S4lhp2y+q5PD89yZxZjmsWJt0A+R1VHT0fIhV+SCI2Fs75Se
+fVFbbi9s6t+4P9hzRTvlfNVUrH2uchnd+szrjjry5CdZkV0PDcpdbb1XRx880dH/
+7IGVorc6Sho8LSWekZ4r3XBzF5NRlLv7Yltd/HdD0/kzjUtTzoM55pXaCzvfGHfF
+52c3pcZ05ez0Xj66dyKzprQ++as+d+5AxHWxbL41/MeWk61fe30brNtDemZtWft7
+s/pfH12cWCmodFS9W7ftznzyqZjchB1/Pp88EMSGno0PO3fooMIN+K7lpadOnvuo
+ojDthcXDNb6S6W/Slx2H4645YxubT3+P8Lnb69pPZIS58mMcsa8sZ9Fbv91V9Plj
++2b3rJtOM457Pb7zt3QT+mOujGr7TxvaO4r5+gln9NM/1ykzW+yuOXv2kS2d7h2n
+YXZj8YVtjopuX+DWuNGFnsCPnbFdw71Lv0YN3tG+PDI+Pdstd0Jz+OOm12ImqU2h
+If2bb6QUDLjXu9MKtatzNYV9Z0qLFJdiybz+Nw==
+=ZJy0
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gpeltier
+
+==================================================================
